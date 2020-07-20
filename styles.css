@@ -1,0 +1,189 @@
+*
+{margin: 0;
+padding: 0;}
+
+
+html,
+body 
+{margin: 1;
+padding: 0;}
+
+
+h2 
+{text-align: center; font-family: 'Raleway', sans-serif;}
+
+h3 
+{text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 150%;
+color: #4a3f35;}
+
+.petal 
+{width: 50px;
+height: 50px;
+position: relative;
+right: 200px;
+top: 45px;
+ filter: opacity(50%);}
+
+hr 
+{ border-color: #e2979c;
+border-style: none;
+border-top-style: dotted;
+filter: opacity(50%);
+margin-top: -1em;
+border-width: 5px;
+width: 4%;}
+
+.nav li 
+{display: inline;
+text-align: right;}
+
+.nav a 
+{display: inline-block;
+padding: .8em;
+color: #4a3f35;
+text-decoration: none;}
+
+.main-nav 
+{text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 1.3em;
+font-weight: lighter;
+background-color: #f1c5c5; 
+
+padding-bottom: 1.5%;}
+
+
+.main-nav 
+{padding-top: 10;
+padding-right: 35;}
+
+.nav a:hover
+ {color:#faf2f2; opacity:(50%);}
+
+.nav ul 
+{margin: 0;}
+
+.main-header 
+{background-color: #ffe2e2;
+background-image: url("images/sakura.png");
+background-size: cover;
+background-size: 20%;
+background-position: bottom;
+background-repeat: no-repeat;
+padding-top: none;
+padding-bottom: 20%;}
+
+
+.my-name 
+{text-align: center;
+padding-top: 100px;
+font-size: 5.5em;
+font-weight: lighter;
+font-family: 'Sacramento', cursive;
+color: #7d5a5a;
+margin-top: 20px;
+margin-bottom: 10px;}
+
+.my-title 
+{text-align: center;
+font-family: 'Raleway', sans-serif;
+color: #4a3f35;
+font-weight: bold;
+font-size: 1.6em;
+padding: 1em 0;
+display: block;
+padding: 0px;
+margin: 0px;}
+
+.rosey 
+{width: 170px;
+height: 170px;
+text-align: center;
+display: block;
+padding-bottom: 30px;}
+
+.top-section {
+background-color: #faf2f2;
+background-size: cover;
+padding-bottom: 5%;
+padding-top: 3%;
+margin-top: 0;}
+
+.top-paragraph 
+{text-align: center;
+font-size: 150%;
+font-family: 'Raleway', sans-serif;
+color: #4a3f35;}
+
+.middle-section
+ {background-color: #faf2f2; padding-top: 20px;}
+
+
+
+.middle-section-header 
+{text-align: center;
+font-size: 170%;
+font-family: 'Raleway', sans-serif;
+padding-top: 5%;}
+
+.html-position
+{position: relative;
+padding-right:3.5em;   
+
+}
+.css-position {
+    position: relative;
+    padding-left:0em;}
+
+    .psd-position
+    {position: relative;
+padding-left:3.5em; }
+
+
+.what-you-need 
+{text-align: center;
+padding-top: 35px;
+font-family: 'Raleway', sans-serif;
+font-size: 150%;
+color: #4a3f35;}
+
+.footer-section 
+{background-color: #7d5a5a;
+padding-top: 50px;
+padding-bottom:50px;
+
+
+}
+
+
+.button
+{color: #4a3f35;
+background-color: #e2979c;
+font-family: 'Raleway', sans-serif;
+font-weight: bolder;
+border: none;
+font-size: 20px;
+padding: 16px 16px;
+border-radius: 12px;
+width: 200px;
+text-decoration:none;
+}
+
+
+
+
+.button:hover 
+{box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.copyright 
+{font-family: 'Raleway', sans-serif;
+text-decoration:none;
+text-align: center;
+color:#faf2f2;
+font-weight: lighter;
+padding-top:20px;
+
+}
